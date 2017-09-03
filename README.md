@@ -1,4 +1,3 @@
-# MNC1
+# MN_1
 
-Codis pràctiques MNC1
-MATLAB
+Codis pràctiques assignatura #1
